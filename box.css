@@ -1,0 +1,15 @@
+.box{
+    margin: 20px;
+    width: 20%;
+    border: 10px solid black;
+    padding: 60px 20px;
+    text-align: center;
+    font-size: 18px;
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
